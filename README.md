@@ -3,8 +3,11 @@
 <!--
 **recalc9/recalc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br/>
+
 >为什么不问一问神奇海螺呢？🐚
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=recalc9&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=recalc9&show_icons=true&title_color=428bed&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+<br/>
 
 - :office: 目前处于安服崽阶段
 - :hammer: 喜欢使用C++&Go开发安全工具重复造轮子
