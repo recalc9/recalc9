@@ -10,9 +10,8 @@
 <br/>
 
 - :office: 目前处于安服崽阶段
-- :hammer: 喜欢使用C++&Go开发安全工具重复造轮子
+- :hammer: 喜欢使用Rust&Go开发安全工具重复造轮子
 - :rocket: 正在提升软件逆向和二进制安全的能力
-- :mailbox: 公众号：小涛的修炼日志
 - :no_entry_sign: 不要误食天南星科植物！！！
 
 <br/><br/><br/><br/>
